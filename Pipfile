@@ -6,7 +6,6 @@ verify_ssl = true
 [packages]
 paramiko = "*"
 openai = "*"
-twisted = "*"
 
 [dev-packages]
 
